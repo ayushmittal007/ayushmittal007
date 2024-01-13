@@ -26,9 +26,9 @@
 <p align="center">
 👦Pursuing my Bachelors Degree in "Computer Science". </br>
 💻I enjoy working in Backend Development</br>
-👨‍💻I have experience working with NodeJs
-I love doing Competitive Programming 
-I am rated ⭐⭐⭐ on Codechef 
+👨‍💻I have experience working with NodeJs.</br>
+I love doing Competitive Programming and
+I am currently rated ⭐⭐⭐ on Codechef and Pupil on Codeforces
 </p>
 
 <br>
