@@ -15,7 +15,7 @@
 </p>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ayush+%F0%9F%91%8B;Back-End+Developer;Problem+Solver" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+,+I'm+Ayush+%F0%9F%91%8B;Back-End+Developer;Problem+Solver" alt="Headline" />
 </div> 
 <div align=center>
     <a href="https://www.linkedin.com/in/ayush-agrawal-2a3654266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
