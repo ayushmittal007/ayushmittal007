@@ -28,7 +28,7 @@
 💻I enjoy working in Backend Development</br>
 👨‍💻I have experience working with NodeJs.</br>
 I love doing Competitive Programming and
-I am currently rated ⭐⭐⭐ on Codechef and Pupil on Codeforces
+I am currently rated ⭐⭐⭐⭐ on Codechef and Specialist on Codeforces
 </p>
 
 <br>
